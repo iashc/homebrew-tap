@@ -1,9 +1,9 @@
 class Got < Formula
   desc "Clone Git repositories into predictable local paths"
   homepage "https://github.com/iashc/got"
-  url "https://github.com/iashc/got/releases/download/v0.1.0/got-0.1.0-aarch64-apple-darwin.tar.gz"
-  sha256 "5fce1a2c72a915de173f2bded8d444203ef2ff214c38e0418cccd2f15b54380c"
-  version "0.1.0"
+  url "https://github.com/iashc/got/releases/download/v0.1.1/got-0.1.1-aarch64-apple-darwin.tar.gz"
+  sha256 "53119ea11e1925cc32bfa14797ca35f7989ac5a71d46c0ff4de56d447337350f"
+  version "0.1.1"
 
   depends_on arch: :arm64
   depends_on :macos
